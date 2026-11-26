@@ -6,3 +6,5 @@
 - `index.html` 한 파일로 동작합니다(외부 라이브러리: SheetJS, pdf.js, html2canvas, jsPDF — cdnjs).
 - 승인 기록·월별 관리 기록은 접속한 브라우저에만 저장됩니다.
 - Vercel: 빌드 설정 없이 정적 사이트로 배포됩니다.
+
+배포 주소: https://myungse-ddokddok.vercel.app
